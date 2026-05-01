@@ -38,9 +38,31 @@ A Hospital Management System built using Python and MySQL to manage patients, do
 * db.py → Database connection
 * hospital.sql → Database schema and data
 
-## 📸 Output Screens
+## 📊 Database Output
 
-(Add screenshots here)
+## 💻 Application Execution (CMD)
+
+### 🏥 Patient & Doctor Management
+
+![Patient Doctor](patient_doctor_management.png)
+
+### 📅 Appointments & Records
+
+![Appointments](appointments_and_records.png)
+
+## 📸 Output Screenshorts 
+
+### 👤 Patient Records
+
+![Patients](patient_table_output.png)
+
+### 🩺 Doctor Records
+
+![Doctors](doctor_table_output.png)
+
+### 📅 Appointment Records
+
+![Appointments](appointment_table_output.png)
 
 ## 📚 Future Improvements
 
